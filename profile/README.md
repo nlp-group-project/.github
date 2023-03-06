@@ -18,7 +18,7 @@ This is a Natural Language Processing project that undertakes the task of predic
 
 
 ## Initial Thoughts
-Intial thoughs : Java could be the most common language, followed by Python. As for the predictory words, we thought that shoe company brands or shoe types would be amongst the most common words.
+Java could be the most common language, followed by Python. As for the predictory words, we thought that shoe company brands or shoe types would be amongst the most common words.
 
 
 ## The Plan
@@ -76,9 +76,12 @@ By acquiring using web scraping techniques, exploring the data and creating clas
 
 
 ## Next Steps
-- Explore bigrams and trigrams.
-- Visualize the bigrams and trigrams via word clouds.
+- Explore quadgrams.
+- Visualize the quadgrams via word clouds and bar plots.
 
+
+## Recommendations
+- We recommend that those interested in shoe marketing use the results of this project to bolster or enhance the jargon they use. 
 
 ## Steps To Reproduce
 1. Clone this Repository.
