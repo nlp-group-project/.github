@@ -61,7 +61,7 @@ Intial thoughs : Java could be the most common language, followed by Python. As 
 
 
 ## Explore
-- Search for and establish most common words.
+- Search for and establish most common words using NLP techniques.
 - Look at TF-IDF scores.
 - Create bigrams. (This led to the discovery of two separate film scripts in two separate README.md files.)
 - Create bar plots and word clouds to visualize trends.
