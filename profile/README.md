@@ -65,6 +65,11 @@ Intial thoughs is that Java will be the most common language, followed by python
 
 
 ## Conclusion
+In this project, we examined the programming languages of Github repositories based on words mentioned in README.md files that included the word 'shoes'.
+By acquiring using web scraping techniques, exploring the data and creating classification models, using the decision tree  — we established a model to  accurately predict the programming language 43 pc of the time. 
+  - Baseline: 25% 
+  - Final Model: 43%
+  - Performance Increase: 73%
 
 
 ## Next Steps
